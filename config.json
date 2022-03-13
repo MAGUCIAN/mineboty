@@ -2,7 +2,7 @@
     "ip": "ult5.falix.gg",
     "port": "37167",
     "name": "tom",
-    "auto-night-skip": "false",
+    "auto-night-skip": "true",
     "prefix": "",
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
